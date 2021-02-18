@@ -1,1 +1,4 @@
-
+Correlation_Coefficient.ipynb
+Description:
+Book name: Introduction to Probability and Statistics for Engineers and Scientist
+Chapter 2: Problem 30, Problem 33
